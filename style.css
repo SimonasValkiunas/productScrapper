@@ -9,14 +9,15 @@
     flex-direction: column;
     margin: 1%;
     width: 200px;
-    height: 300px;
-}
-.product img {
-    width: 200px;
     height: 200px;
+    border: 1px solid rgb(207, 207, 207);
+    background-color: #fff8e1;
+    text-align: center;
 }
 
+
 .product-list{
+    margin-left: 3%;
     display: flex;
     flex-wrap: wrap;
     width: 130%;
